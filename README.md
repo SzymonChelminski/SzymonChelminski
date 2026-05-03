@@ -7,9 +7,7 @@
 ---
 
 ### 📝 About Me
-*   🎓 **Education:** II Year (4th Semester) Computer Science student.
-*   💡 **Interest:** Building functional web applications and scalable backend systems.
-*   🏀 **Personal:** Huge fan of sports and staying active.
+I am a dedicated Computer Science student currently in my fourth semester, driven by a strong interest in the ever-evolving landscape of web technologies. My academic journey is complemented by a hands-on approach to software development, where I focus on bridging the gap between complex backend logic and intuitive user experiences. I thrive on solving intricate problems and am committed to writing clean, maintainable code while constantly expanding my technical horizon through ambitious side projects.
 
 ---
 
@@ -27,24 +25,24 @@
 ### 🚀 Featured Projects
 
 *   **⚡ FitLog**
-    *   Physical activity tracker built to optimize health and training.
-    *   Integrates with **ExerciseDB API** for personalized workout data.
+    *   A comprehensive physical activity tracker designed to streamline health optimization.
+    *   Integrated with the **ExerciseDB API** to deliver data-driven workout insights and personalized routines.
 *   **🧠 AiMathics**
-    *   AI-powered tutor that explains math problems step-by-step.
-    *   Uses **OCR** for image recognition and **OpenAI** for logic processing.
+    *   An intelligent educational tool that leverages **OCR** and **OpenAI** to demystify complex mathematics.
+    *   Provides users with clear, step-by-step logical explanations, acting as a 24/7 digital tutor.
 *   **🍎 MacroMaster**
-    *   Nutrition management tool (Fitatu style) for tracking calories and macros.
-    *   Powered by the **Edamam API** for accurate nutritional data.
+    *   A precision nutrition management platform powered by the **Edamam API**.
+    *   Enables detailed tracking of caloric intake and macronutrients to help users achieve specific dietary milestones.
 *   **📸 CropSnap**
-    *   Web-based image editing suite.
-    *   Uses external cloud APIs for high-quality photo manipulation.
+    *   A versatile web application tailored for modern image processing.
+    *   Utilizes advanced cloud APIs to provide seamless and efficient photo manipulation capabilities.
 
 ---
 
-### 🌱 Current Activity
-*   🔭 **Developing:** Scaling the backend for the **FitLog** ecosystem.
-*   📚 **Learning:** Advanced **Node.js** patterns and architecture.
-*   🏀 **After Hours:** Basketball or gym.
+### 🌱 Current Focus
+*   🔭 **Project Development:** Enhancing the scalability and backend performance of the **FitLog** ecosystem.
+*   📚 **Continuous Learning:** Deep-diving into advanced **Node.js** architecture and asynchronous design patterns.
+*   ☁️ **Exploration:** Investigating cloud deployment strategies and modern DevOps workflows.
 
 ---
 
