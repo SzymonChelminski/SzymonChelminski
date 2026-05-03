@@ -1,49 +1,53 @@
-<div align="center">
-
-# 👨‍💻 @SzymonChelminski
-### Computer Science Student @ Lodz University of Technology
+# 👨‍💻 Szymon Chełmiński
+**Computer Science Student @ Lodz University of Technology**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-che%C5%82mi%C5%84ski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:szymon.chelminski24@gmail.com)
 
 ---
 
-**II Year (4th Semester) | Web Development | Sports Enthusiast**
+### 📝 About Me
+*   🎓 **Education:** II Year (4th Semester) Computer Science student.
+*   💡 **Interest:** Building functional web applications and scalable backend systems.
+*   🏀 **Personal:** Huge fan of sports and staying active.
 
-</div>
+---
 
 ### 🛠 Tech Stack
-
-*   **Languages:** `JavaScript`, `TypeScript`, `Python`, `Java`, `PHP`, `C`, `C++`, `SQL`
-*   **Web Frameworks:** `React`, `Next.js`, `Node.js`, `Angular`, `Tailwind CSS`
-*   **Tools & Environment:** `Docker`, `Git`, `VS Code`, `IntelliJ`
+*   **Languages**
+    *   `JavaScript` • `TypeScript` • `Python` • `Java` • `PHP`
+    *   `C` • `C++` • `SQL`
+*   **Web Development**
+    *   `Next.js` • `React` • `Node.js` • `Angular` • `Tailwind CSS`
+*   **Tools & Environment**
+    *   `Docker` • `Git` • `VS Code` • `IntelliJ`
 
 ---
 
 ### 🚀 Featured Projects
 
-#### ⚡ FitLog
-A physical activity tracker currently under development. It leverages the **ExerciseDB API** to provide health optimization tools and personalized workout routines.
-
-#### 🧠 AiMathics
-An AI-driven math tutor that helps users solve and understand complex problems. By utilizing **OCR** and **OpenAI**, it scans math tasks and provides step-by-step logical explanations.
-
-#### 🍎 MacroMaster
-A nutrition and macro-tracking application integrated with the **Edamam API**. It allows for precise monitoring of calories and nutrients while managing personal dietary goals.
-
-#### 📸 CropSnap
-A web-based image processing tool designed for quick photo editing and manipulation through external cloud APIs.
-
----
-
-### 🔭 Current Focus
-
-*   🔨 Developing the backend architecture for **FitLog**.
-*   📚 Masterclassing **Node.js** for scalable systems.
-*   🏀 Staying active on the court during my downtime.
+*   **⚡ FitLog**
+    *   Physical activity tracker built to optimize health and training.
+    *   Integrates with **ExerciseDB API** for personalized workout data.
+*   **🧠 AiMathics**
+    *   AI-powered tutor that explains math problems step-by-step.
+    *   Uses **OCR** for image recognition and **OpenAI** for logic processing.
+*   **🍎 MacroMaster**
+    *   Nutrition management tool (Fitatu style) for tracking calories and macros.
+    *   Powered by the **Edamam API** for accurate nutritional data.
+*   **📸 CropSnap**
+    *   Web-based image editing suite.
+    *   Uses external cloud APIs for high-quality photo manipulation.
 
 ---
 
-<div align="right">
+### 🌱 Current Activity
+*   🔭 **Developing:** Scaling the backend for the **FitLog** ecosystem.
+*   📚 **Learning:** Advanced **Node.js** patterns and architecture.
+*   🏀 **After Hours:** Basketball or gym.
+
+---
+
+<p align="right">
   <i>Szymon Chełmiński — 2026</i>
-</div>
+</p>
