@@ -36,8 +36,8 @@ Computer Science student (4th semester) dedicated to building clean, scalable we
 ---
 
 ### 🌱 Current Focus
-*   🔭 **Developing:** Scaling the backend for the **FitLog** ecosystem.
-*   📚 **Learning:** **Node.js** patterns and architecture.
+*   🔭 **Developing:** Scaling the backend for the **Shelfy** ecosystem.
+*   📚 **Learning:** **Node.js & Kotlin**.
 
 ---
 
