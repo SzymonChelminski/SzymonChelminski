@@ -7,7 +7,7 @@
 ---
 
 ### 📝 About Me
-Computer Science student (4th semester) dedicated to building clean, scalable web applications. I focus on merging efficient backend logic with seamless user interfaces.
+Computer Science student (5th semester) dedicated to building clean, scalable web applications. I focus on merging efficient backend logic with seamless user interfaces.
 
 ---
 
