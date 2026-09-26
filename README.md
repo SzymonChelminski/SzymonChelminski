@@ -36,12 +36,6 @@ Computer Science student (5th semester) dedicated to building clean, scalable we
 
 ---
 
-### 🌱 Current Focus
-*   🔭 **Developing:** Scaling the backend for the **Shelfy** ecosystem.
-*   📚 **Learning:** **Node.js & Kotlin**.
-
----
-
 <p align="right">
   <i>Szymon Chełmiński — 2026</i>
 </p>
