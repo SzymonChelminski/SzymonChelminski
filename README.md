@@ -1,6 +1,7 @@
 # 👨‍💻 Szymon Chełmiński
 **Computer Science Student @ Lodz University of Technology**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-C2410C?style=flat-square&logo=googlechrome&logoColor=white)](https://szymonchelminski.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-che%C5%82mi%C5%84ski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:szymon.chelminski24@gmail.com)
 
